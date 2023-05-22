@@ -24,6 +24,6 @@
 * Provided accounting for over $25,000 of purchases by piloting with two USC student organizations
 * Selected as one of the top projects in DSCI 351: Foundations of Data Management
 
-![](/images/Cholesterol.png)
+![](/images/Main_Screen.png)
 
-![](/images/Models.png)
+![](/images/Requests.png)
