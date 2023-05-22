@@ -33,9 +33,7 @@
 * Used Spark RDD to efficiently predict for over 150,000 user-business pairs
 * Algorithm ranked 13th out of 232 students in Graduate Data Mining Course 
 
-![](/images/Main_Screen.png)
-
-![](/images/Requests.png)
+![](/images/Yelp.png)
 
 # [Streamlit GPT Chatbot with Context](https://github.com/hassanhshah/Hybrid_Recommender_System)
 * Built a Hybrid Recommender System that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
@@ -51,9 +49,7 @@
 * Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
 * Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect cancer
 
-![](/images/Main_Screen.png)
-
-![](/images/Requests.png)
+![](/images/Leukemia.png)
 
 
 
