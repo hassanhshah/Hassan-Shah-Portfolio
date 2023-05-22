@@ -27,3 +27,15 @@
 ![](/images/Main_Screen.png)
 
 ![](/images/Requests.png)
+
+# [Leukemia Multi-Class Classification Based on Gene Expression Levels](https://github.com/hassanhshah/Leukemia_Classification/tree/main)
+* Compared the prediction capabilities of different machine learning models to determine their efficacy in predicting leukemia types  
+* Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
+* Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect cancer
+
+![](/images/Main_Screen.png)
+
+![](/images/Requests.png)
+
+
+
