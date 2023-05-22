@@ -15,5 +15,7 @@
 * Identified the most common risk factors for heart disease, which were chest pain type, number of major vessels (0-3) colored by flourosopy, and sex (1 = male; 0 = female) 
 * Compared accuracy of multiple types of ML models with Stacking CV Classifier reaching 90% prediction accuracy
 
+![](/images/Cholesterol.png)
 
+![](/images/Models.png)
 
