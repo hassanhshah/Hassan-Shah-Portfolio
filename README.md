@@ -7,6 +7,7 @@
 * Created a time series analysis of vaccine sentiment over time, which showed a significant increase in positive sentiment following the rollout of vaccines  
 
 ![](/images/Time_Series.png)
+
 ![](/images/Common_Words.png)
 
 # [Heart Disease Exploratory Data Analysis and Classification](https://www.kaggle.com/code/hassanhshah/heart-disease-eda-classification-90-accuracy)
