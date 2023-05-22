@@ -28,7 +28,25 @@
 
 ![](/images/Requests.png)
 
-# [Leukemia Multi-Class Classification Based on Gene Expression Levels](https://github.com/hassanhshah/Leukemia_Classification/tree/main)
+# [Hybrid Recommender System for Yelp Rating Dataset](https://github.com/hassanhshah/Hybrid_Recommender_System)
+* Built a Hybrid Recommender System that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
+* Used Spark RDD to efficiently predict for over 150,000 user-business pairs
+* Algorithm ranked 13th out of 232 students in Graduate Data Mining Course 
+
+![](/images/Main_Screen.png)
+
+![](/images/Requests.png)
+
+# [Streamlit GPT Chatbot with Context](https://github.com/hassanhshah/Hybrid_Recommender_System)
+* Built a Hybrid Recommender System that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
+* Used Spark RDD to efficiently predict for over 150,000 user-business pairs
+* Algorithm ranked 13th out of 232 students in Graduate Data Mining Course 
+
+![](/images/Main_Screen.png)
+
+![](/images/Requests.png)
+
+# [Leukemia Multi-Class Classification Based on Gene Expression Levels](https://github.com/hassanhshah/Leukemia_Classification)
 * Compared the prediction capabilities of different machine learning models to determine their efficacy in predicting leukemia types  
 * Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
 * Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect cancer
