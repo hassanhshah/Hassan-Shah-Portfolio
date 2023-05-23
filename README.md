@@ -51,5 +51,12 @@
 
 ![](/images/Leukemia.png)
 
+# [Image and Character Classification using Neural Networks](https://github.com/hassanhshah/Leukemia_Classification)
+* Compared the prediction capabilities of different machine learning models to determine their efficacy in predicting leukemia types  
+* Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
+* Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect cancer  
+
+![](/images/Leukemia.png)
+
 
 
