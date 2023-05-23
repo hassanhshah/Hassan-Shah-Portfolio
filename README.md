@@ -56,7 +56,9 @@
 * Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
 * Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect cancer  
 
-![](/images/Leukemia.png)
+![](/images/IMAGECNN.png)
+
+![](/images/Chinese_Characters.png)
 
 
 
