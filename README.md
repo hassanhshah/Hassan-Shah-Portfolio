@@ -40,9 +40,7 @@
 * Used Spark RDD to efficiently predict for over 150,000 user-business pairs
 * Algorithm ranked 13th out of 232 students in Graduate Data Mining Course  
 
-![](/images/Main_Screen.png)
-
-![](/images/Requests.png)
+![](/images/Chatbot.png)
 
 # [Leukemia Multi-Class Classification Based on Gene Expression Levels](https://github.com/hassanhshah/Leukemia_Classification)
 * Compared the prediction capabilities of different machine learning models to determine their efficacy in predicting leukemia types  
