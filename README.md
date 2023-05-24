@@ -3,7 +3,7 @@
 # [AgentAI (Streamlit GPT Chatbot with Context)](https://github.com/hassanhshah/GPTChatbot)
 * Built a chatbot using OpenAI's GPT API with attention and personal assistant capabilities 
 * Chatbot can be customized to fulfill specific personal use cases and call other APIs
-* In the example below, AgentAI calls a flight API that looks for tickets, acting as a Travel Agent
+* In the example below, AgentAI calls a flight API that looks for tickets, acting as a travel agent
 
 ![](/images/Chatbot.png)
 
@@ -15,7 +15,7 @@
 ![](/images/Time_Series.png)
 
 # [Clearbudget](https://clearbudgets.com)
-* Developed a [web app](https://github.com/hassanhshah/ClearBudget) that allows student organizations to efficiently track their spending and reimburse purchases  
+* Developed a [web app](https://github.com/hassanhshah/ClearBudget) that allows student organizations to track their spending and reimburse purchases efficiently  
 * Provided accounting for over $25,000 of purchases by piloting with two USC student organizations  
 * Selected as one of the top projects in DSCI 351: Foundations of Data Management  
 
@@ -25,15 +25,15 @@
 
 # [Hybrid Recommender System for Yelp Rating Dataset](https://github.com/hassanhshah/Hybrid_Recommender_System)
 * Constructed a Hybrid Recommender System that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
-* Used Spark RDD to efficiently predict for over 150,000 user-business pairs
+* Used Spark RDD to predict over 150,000 businesses' ratings in seconds
 * Algorithm ranked 13th out of 232 students in Graduate Data Mining Course  
 
 ![](/images/Yelp.png)
 
 # [Heart Disease Exploratory Data Analysis and Classification](https://www.kaggle.com/code/hassanhshah/heart-disease-eda-classification-90-accuracy)
 * Performed exploratory data analysis on a dataset of heart disease patient records from the UCI Machine Learning Repository  
-* Identified the most common risk factors for heart disease, which were chest pain type, number of major vessels (0-3) colored by flourosopy, and cholesterol
-* Compared accuracy of multiple ML techniques with an ensemble model (Stacking CV Classifier) reaching 90% prediction accuracy  
+* Identified the most common risk factors for heart disease, which were chest pain type, number of major vessels colored by fluoroscopy, and cholesterol
+* Compared the accuracy of multiple ML techniques with an ensemble model (Stacking CV Classifier), reaching 90% prediction accuracy  
 
 ![](/images/Cholesterol.png)
 
@@ -48,26 +48,23 @@
 
 # [Leukemia Multi-Class Classification Based on Gene Expression Levels](https://github.com/hassanhshah/Leukemia_Classification)
 * Compared the prediction capabilities of different ML models to determine their efficacy in predicting leukemia types  
-* Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
+* Used various preprocessing methods to deal with multi-class classification, including one vs. rest classification, one-hot encoding, and label encoding 
 * Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect different cancers
 
 ![](/images/Models.png)
 
 # [Predicting Squirrel Movements in Central Park](https://github.com/hassanhshah/Squirrel_Prediction)
-* Compared the prediction capabilities of different machine learning models to determine their efficacy in predicting leukemia types  
-* Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
-* Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect cancer  
+* Fit an XGBoost Model on data from the movements of squirrels in Central Park using a variety of methods, including GPS tracking and camera traps
+* Also used tree-based models to assess the relative importance of various features
+* Ultimately, the most predictive feature proved to be whether or not the squirrel ran away from the observer 
 
-![](/images/IMAGECNN.png)
+![](/images/Squirrel.png)
 
-![](/images/Chinese_Characters.png)
-
-# [Machine Learning Topics Explored:](https://github.com/hassanhshah/Squirrel_Prediction)
-* K-Nearest Neighbors
-* Regression
-* Time Series
-* SMOTE 
-* Support Vector Machines
-* Semi-Supervised Learning
+# [Machine Learning Topics Explored:](https://github.com/hassanhshah/MLTopics)
+* [K-Nearest Neighbors](https://github.com/hassanhshah/MLTopics/blob/main/KNN/notebook/KNN.ipynb)
+* [Regression](https://github.com/hassanhshah/MLTopics/blob/main/Regression/notebook/Regression.ipynb)
+* [SMOTE](https://github.com/hassanhshah/MLTopics/blob/main/SMOTE%20Sampling/notebook/SMOTE_Sampling.ipynb)
+* [Support Vector Machines](https://github.com/hassanhshah/MLTopics/blob/main/SVMs/notebook/SVMs.ipynb)
+* [Semi-Supervised Learning](https://github.com/hassanhshah/MLTopics/tree/main/SemiSupervisedLearning/notebook)
 
 
