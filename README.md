@@ -37,7 +37,7 @@
 
 ![](/images/Cholesterol.png)
 
-# [Image and Character Classification using Neural Networks](https://github.com/hassanhshah/Image_and_Character_Classification)
+# [Image and Character Classification Using Neural Networks](https://github.com/hassanhshah/Image_and_Character_Classification)
 * Used TensorFlow and CNN architecture to detect images and Chinese characters
 * Achieved Chinese character recognition > 90%
 * Tracked loss, accuracy, and misclassified predictions to further improve training 
