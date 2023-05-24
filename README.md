@@ -24,8 +24,8 @@
 ![](/images/Requests.png)
 
 # [Hybrid Recommender System for Yelp Rating Dataset](https://github.com/hassanhshah/Hybrid_Recommender_System)
-* Constructed a Hybrid Recommender System that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
-* Used Spark RDD to predict over 150,000 businesses' ratings in seconds
+* Constructed a hybrid recommender system that utilizes both content-filtering and item-based discovery to predict users' ratings of businesses on Yelp
+* Used Spark RDD to compute 150,000 businesses' ratings in seconds
 * Algorithm ranked 13th out of 232 students in Graduate Data Mining Course  
 
 ![](/images/Yelp.png)
