@@ -37,8 +37,6 @@
 
 ![](/images/Cholesterol.png)
 
-![](/images/Models.png)
-
 # [Image and Character Classification using Neural Networks](https://github.com/hassanhshah/Image_and_Character_Classification)
 * Used TensorFlow and CNN architecture to detect images and Chinese characters
 * Achieved Chinese character recognition > 90%
@@ -53,7 +51,7 @@
 * Used various preprocessing methods to deal with multi-class classification including one vs. rest classification, one-hot encoding, and label encoding 
 * Wrote an accompanying paper highlighting the abilities of modern ML algorithms to detect different cancers
 
-![](/images/Leukemia.png)
+![](/images/Models.png)
 
 # [Predicting Squirrel Movements in Central Park](https://github.com/hassanhshah/Squirrel_Prediction)
 * Compared the prediction capabilities of different machine learning models to determine their efficacy in predicting leukemia types  
